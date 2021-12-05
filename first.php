@@ -61,6 +61,20 @@ Project Selection
 </div>
 <br>
 <br>
+<div class="input-group2">
+<label style="font-size:60px;">Projects:</label>
+<select style="font-size:30px">
+<option value = "Mr Anurag Bhatnagar"> E-Polling System
+</option>
+<option value = "Dr. Pankaj Vyas"> Online Gate Pass
+</option>
+<option value = "Dr. N.K Gupta"> Student Database Management System
+</option>
+<option value = "Dr. N.N Das"> Room Booking System
+</option>
+</select>
+</div>
+<br><br>
 
 <input  style="font-size:20px;"class="sumbit" type="submit" value="Submit">
 <br>
